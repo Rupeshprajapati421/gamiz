@@ -1,0 +1,2 @@
+# gamiz
+Rock Paper Scissors 
